@@ -1,0 +1,1 @@
+{"inputs":{"body":{},"params":{},"query":{"utc":"false","leap_day":"true","email":"shabari@umich.edu","interval":"10","full_name":"Shabarish Chenakkod","affiliation":"University of Michigan","wkt":"POINT(-119.01 35.38)","names":"2018"}},"metadata":{"version":"2.0.0"},"status":400,"errors":["Data processing failure."]}
