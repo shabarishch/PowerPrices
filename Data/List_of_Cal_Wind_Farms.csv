@@ -1,0 +1,112 @@
+﻿Start Date,Power Plant Name,County,CEC ID,CAISO ID,Wind Resource Area, Capacity (MW) 
+01 Jul 2021,Altamont Winds LLC                                 ,Alameda,W0482,DYERSM_6_DSWWD1,Altamont, 57.5 
+01 Dec 2004,Diablo Wind LLC                                             ,Alameda,W0423,FLOWD2_2_FPLWND,Altamont, 18.0 
+18 Dec 2015,Golden Hills                                                ,Alameda,W0461,USWND2_1_WIND1,Altamont, 85.9 
+08 Nov 2017,Golden Hills North                                          ,Alameda,W0468,USWND2_1_WIND3,Altamont, 46.0 
+10 Feb 2011,Vasco Wind Energy Center                                    ,Alameda,W0394,USWPJR_2_UNITS,Altamont, 78.2 
+29 Dec 2006,Buena Vista Energy LLC                                      ,Contra Costa,W0426,WNDMAS_2_UNIT 1,Altamont, 38.0 
+27 Dec 2012,Ocotillo Express LLC                                        ,Imperial,W0409,OCTILO_5_WIND,East San Diego County, 265.4 
+06 Jan 2011,Alta I Wind Energy Center                                   ,Kern,W0370,ALTA4A_2_CPCW1,Tehachapi, 150.0 
+01 Jan 2011,Alta II Wind Energy Center                                  ,Kern,W0372,ALTA4B_2_CPCW2,Tehachapi, 150.0 
+14 Feb 2011,Alta III Wind Energy Center                                 ,Kern,W0387,ALTA4B_2_CPCW3,Tehachapi, 150.0 
+15 Mar 2011,Alta IV Wind Energy Center                                  ,Kern,W0388,ALTA3A_2_CPCE4,Tehachapi, 102.0 
+22 Apr 2011,Alta V Wind Energy Center                                   ,Kern,W0389,ALTA3A_2_CPCE5,Tehachapi, 168.0 
+31 Jan 2012,"Alta Wind VIII, LLC                                         ",Kern,W0393,ALTA3A_2_CPCE8,Tehachapi, 150.0 
+13 Mar 2013,Alta X Wind Energy Center                                   ,Kern,W0441,ALTA6E_2_WIND10,Tehachapi, 136.8 
+13 Mar 2013,Alta XI Wind Energy Center                                  ,Kern,W0442,ALTA6B_2_WIND11,Tehachapi, 89.7 
+17 Jan 1984,Cameron Ridge                                               ,Kern,W0407,ENWIND_2_WIND1,Tehachapi, 59.7 
+29 Mar 2012,"Coram California Development, L.P.                          ",Kern,W0408,BRODIE_2_WIND,Tehachapi, 102.0 
+06 Dec 1985,Coram Energy LLC                                            ,Kern,W0463,DTCHWD_2_BT3WND,Tehachapi, 15.0 
+01 Sep 1992,Coram Tehachapi LP                                          ,Kern,W0445,DTCHWD_2_BT4WND,Tehachapi, 6.5 
+31 Dec 1988,Difwind Farms LTD VI                                        ,Kern,W0374,MORWD_6_QF,Tehachapi, 22.2 
+14 Jun 2009,LADWP Generation - Pine Tree                                ,Kern,W0368,NA,Tehachapi, 135.0 
+01 Dec 2012,Manzana Wind                                                ,Kern,W0420,MANZNA_2_WIND,Tehachapi, 189.0 
+01 Nov 1989,"Mojave 16, 17, 18                                           ",Kern,W0313,WSTWND_2_M89WD1,Tehachapi, 83.6 
+09 Mar 2021,"Mojave 3, 4, 5                                ",Kern,W0477,WSTWND_2_M90WD2,Tehachapi, 66.8 
+17 Mar 2012,Mustang Hills LLC                                           ,Kern,W0406,ALTA4B_2_CPCW6,Tehachapi, 150.0 
+06 Dec 2012,"North Sky River, LLC                                        ",Kern,W0414,JAWBNE_2_NSRWND,Tehachapi, 162.0 
+10 Feb 1986,Oak Creek Wind Power                                        ,Kern,W0319,OAKWD_6_QF,Tehachapi, 31.5 
+14 Apr 2021,Oasis Alta                  ,Kern,W0480,VOYAGR_2_VOAWD5,Tehachapi, 14.4 
+12 Oct 2021,"Oasis Power Partners, LLC             ",Kern,W0385,ESTWND_2_OPPWD1,Tehachapi, 60.3 
+16 Aug 2012,"Pacific Wind Project, LLC                                   ",Kern,W0367,ROSMDW_2_WIND1,Tehachapi, 143.5 
+01 Jan 2013,Pinyon Pines Winds I                                        ,Kern,W0415,ALT6DN_2_WIND7,Tehachapi, 168.0 
+01 Jan 2013,Pinyon Pines Winds II                                       ,Kern,W0416,ALT6DS_2_WIND9,Tehachapi, 132.0 
+08 Mar 2021,Point Wind                    ,Kern,W0481,TEHAPI_2_PW1WD1,Tehachapi, 64.5 
+01 Jan 1985,Ridgetop Energy                                             ,Kern,W0297,ENWIND_2_WIND2,Tehachapi, 20.9 
+31 Dec 1983,Ridgetop Energy II                                          ,Kern,W0265,ENWIND_2_WIND2,Tehachapi, 46.9 
+19 Dec 2014,Rising Tree Wind Farm I                                     ,Kern,W0458,RTREE_2_WIND1,Tehachapi, 79.2 
+27 Dec 2014,Rising Tree Wind Farms II                                   ,Kern,W0459,RTREE_2_WIND2,Tehachapi, 19.8 
+30 Apr 2015,Rising Tree Wind Farms III                                  ,Kern,W0438,RTREE_2_WIND3,Tehachapi, 99.0 
+14 Feb 1991,Sky River Partnership                                       ,Kern,W0289,JAWBNE_2_SRWND,Tehachapi, 60.2 
+15 Dec 1986,Terra-Gen Mojave Windfarms                                  ,Kern,W0270,MORWD_6_QF,Tehachapi, 28.3 
+01 Jan 1984,Terra-Gen VG Wind                                           ,Kern,W0449,NZWIND_6_WDSTR,Tehachapi, 6.7 
+01 Jan 2020,"Voyager Wind I, LLC                                 ",Kern,W0470,VOYAGR_2_VOYWD1,Tehachapi, 131.1 
+07 Nov 2018,"Voyager Wind II, LLC                                        ",Kern,W0471,VOYAGR_2_VOYWD2,Tehachapi, 128.7 
+23 Dec 2018,"Voyager Wind III, LLC                                       ",Kern,W0472,VOYAGR_2_VOYWD3,Tehachapi, 43.2 
+20 Dec 2018,"Voyager Wind IV, LLC                                        ",Kern,W0473,VOYAGR_2_VOYWD4,Tehachapi, 21.6 
+01 Dec 1984,Wind Resource I                                             ,Kern,W0284,NZWIND_6_CALWND,Tehachapi, 8.7 
+30 Dec 1984,Wind Resource II                                            ,Kern,W0320,ARBWD_6_QF,Tehachapi, 20.0 
+01 Feb 1984,Wind Stream Operations 6039                                 ,Kern,W0271,NZWIND_6_WDSTR,Tehachapi, 5.6 
+01 Sep 1984,Wind Stream Operations 6040                                 ,Kern,W0272,NZWIND_6_WDSTR2,Tehachapi, 5.2 
+01 Dec 1984,Wind Stream Operations 6041                                 ,Kern,W0273,NZWIND_6_WDSTR3,Tehachapi, 7.8 
+17 Oct 1985,Wind Stream Operations 6042                                 ,Kern,W0274,NZWIND_6_WDSTR4,Tehachapi, 5.9 
+24 Jan 1986,Wind Stream Operations 6111                                 ,Kern,W0310,NZWIND_2_WDSTR5,Tehachapi, 5.4 
+31 Mar 2021,Wind Wall Monolith 1                          ,Kern,W0486,NA,Tehachapi, 21.3 
+31 Mar 2021,Wind Wall Monolith 2                          ,Kern,W0487,NA,Tehachapi, 25.2 
+27 Jan 2012,"Windstar Energy, LLC                                        ",Kern,W0419,WNDSTR_2_WIND,Tehachapi, 120.0 
+01 Jan 2018,CDCR-LAC                                                    ,Los Angeles,W0466,NA,Outside of Existing, 1.9 
+31 Dec 1985,Dollar Wind LLC                                             ,Merced,W0354,INTTRB_6_UNIT,Pacheco, 18.4 
+01 Sep 2018,CDCR CTF                           ,Monterey,W0476,NA,Other Resource Area, 1.8 
+11 Sep 2020,CDCR SVSP                    ,Monterey,W0475,NA,Other Resource Area, 1.8 
+27 Oct 2014,City of Soledad                                             ,Monterey,W0455,NA,Other Resource Area, 1.0 
+12 Aug 2022,Dole Fresh Vegetables Wind Project      ,Monterey,W0484,NA,Other Resource Area, 5.6 
+11 Sep 2020,Mann Packing                ,Monterey,W0474,NA,Other Resource Area, 1.8 
+15 Sep 2017,Scheid Vineyards                                            ,Monterey,W0465,NA,Other Resource Area, 1.9 
+01 Oct 2014,Taylor Farms                                                ,Monterey,W0457,NA,Other Resource Area, 1.0 
+03 Dec 1984,Cabazon Wind                                                ,Riverside,W0452,TRNSWD_1_QF,San Gorgonio, 37.4 
+20 Mar 2002,"Cabazon Wind Partners, LLC                                  ",Riverside,W0258,CABZON_1_WINDA1,San Gorgonio, 40.9 
+31 Mar 2021,Coachella                                       ,Riverside,W0479,ALTWD_2_COAWD1,San Gorgonio, 61.2 
+01 Apr 2008,Dillon Wind                                                 ,Riverside,W0364,TIFFNY_1_DILLON,San Gorgonio, 45.0 
+07 Jan 1985,East Winds Project                                          ,Riverside,W0278,GARNET_2_WIND5,San Gorgonio, 3.0 
+15 Mar 1985,"Edom Hills Project 1, LLC                                   ",Riverside,W0391,CAPWD_1_QF,San Gorgonio, 20.0 
+02 Jun 2009,Garnet Wind Energy Center                                   ,Riverside,W0440,GARNET_1_WIND,San Gorgonio, 6.5 
+31 Jan 1985,Karen Avenue Wind Farm                                      ,Riverside,W0286,GARNET_2_WIND2,San Gorgonio, 11.7 
+29 Nov 1984,Mesa Wind Power Corporation                                 ,Riverside,W0260,PANSEA_1_PANARO,San Gorgonio, 29.9 
+01 Dec 2003,Mountain View III                                           ,Riverside,W0360,MTWIND_1_UNIT 3,San Gorgonio, 22.4 
+23 Feb 2012,Mountain View IV                                            ,Riverside,W0430,BLAST_1_WIND,San Gorgonio, 49.0 
+27 Jul 2022,Mountain View Repower        ,Riverside,W0488,MTWIND_1_UNIT 1,San Gorgonio, 66.7 
+01 Nov 2012,Nestle Waters                                               ,Riverside,W0402,NA,San Gorgonio, 5.1 
+17 Mar 2021,Painted Hills                       ,Riverside,W0478,VENWD_1_WIND3,San Gorgonio, 46.8 
+10 Jan 1985,Phoenix Wind                                                ,Riverside,W0277,PWEST_1_UNIT,San Gorgonio, 2.1 
+01 Dec 2012,Robertsons Ready-Mix                                        ,Riverside,W0401,NA,San Gorgonio, 2.0 
+01 Mar 1983,San Gorgonio Farms Wind Farm                                ,Riverside,W0261,SANWD_1_QF,San Gorgonio, 31.0 
+24 Nov 1985,San Gorgonio Westwinds II                                   ,Riverside,W0283,GARNET_2_WIND3,San Gorgonio, 43.4 
+15 Feb 2012,San Gorgonio Wind                                           ,Riverside,W0447,GARNET_1_WINDS,San Gorgonio, 49.5 
+22 Dec 2012,"Wagner Wind, LLC                                            ",Riverside,W0413,GARNET_1_WT3WND,San Gorgonio, 6.0 
+30 Sep 2002,"Whitewater Hill Partners, LLC                               ",Riverside,W0361,WHTWTR_1_WINDA1,San Gorgonio, 61.5 
+23 Dec 2003,Wintec Energy #2-A                                          ,Riverside,W0437,BUCKWD_7_WINTCV,San Gorgonio, 1.3 
+01 Nov 2012,Cemex BMQ                                                   ,San Bernardino,W0403,NA,Other Resource Area, 3.0 
+01 Dec 2012,Cemex River Plant                                           ,San Bernardino,W0404,NA,Other Resource Area, 3.2 
+01 Dec 2011,IEUA                                                        ,San Bernardino,W0397,NA,Outside of Existing, 1.0 
+14 Jul 2014,Golden Acorn Casino                                         ,San Diego,W0390,NA,East San Diego County, 1.0 
+01 Dec 2005,Kumeyaay Wind Farm                                          ,San Diego,W0359,CRSTWD_6_KUMYAY,East San Diego County, 50.0 
+12 Jan 2018,Tule Wind LLC                                               ,San Diego,W0467,TULEWD_1_TULWD1,East San Diego County, 131.1 
+01 Jun 2011,Safeway Tracy                                               ,San Joaquin,W0396,NA,Altamont, 2.0 
+01 Oct 2010,Teichert Vernalis                                           ,San Joaquin,W0395,NA,Outside of Existing, 1.5 
+10 Aug 2023,"Strauss Wind, LLC         ",Santa Barbara,W0485,NA,Outside of Existing, 95.3 
+14 Dec 2010,"Hatchet Ridge Wind, LLC                                     ",Shasta,W0369,HATRDG_2_WIND,Other Resource Area, 101.2 
+20 Nov 2014,Anheuser-Busch #2                                           ,Solano,W0456,NA,Outside of Existing, 1.6 
+01 Dec 2012,Superior Farms                                              ,Solano,W0405,NA,Outside of Existing, 1.0 
+01 Nov 2011,Anheuser-Busch                                              ,Solano,W0398,NA,Solano, 1.5 
+01 May 2006,EDF Renewable Windfarm V Inc                                ,Solano,W0380,USWNDR_2_LABWD1,Solano, 9.0 
+28 Jan 2011,FPL Energy Montezuma Winds LLC                              ,Solano,W0371,BRDSLD_2_MTZUMA,Solano, 36.8 
+01 Dec 2003,High Winds                                                  ,Solano,W0355,BRDSLD_2_HIWIND,Solano, 162.0 
+16 Feb 2012,Montezuma Wind II                                           ,Solano,W0392,BRDSLD_2_MTZUM2,Solano, 78.2 
+28 Mar 2006,Shiloh I Wind                                               ,Solano,W0358,BRDSLD_2_SHILO1,Solano, 150.0 
+23 Dec 2011,"Shiloh III Wind Project, LLC                                ",Solano,W0421,BRDSLD_2_SHLO3A,Solano, 102.5 
+01 Dec 2012,"Shiloh IV Wind Project, LLC                                 ",Solano,W0422,BRDSLD_2_SHLO3B,Solano, 102.5 
+09 Feb 2009,"Shiloh Wind Project 2, LLC                                  ",Solano,W0384,BRDSLD_2_SHILO2,Solano, 153.8 
+01 Jun 1994,"Solano Wind 1,2                                             ",Solano,W0357,USWNDR_2_SMUD,Solano, 87.0 
+26 Apr 2012,Solano Wind 3                                               ,Solano,W0356,USWNDR_2_SMUD2,Solano, 127.8 
+01 Sep 2012,Wal-Mart Red Bluff                                          ,Tehama,W0400,NA,Other Resource Area, 1.0 
+01 Sep 2011,Cemex Madison                                               ,Yolo,W0399,NA,Other Resource Area, 1.0 
