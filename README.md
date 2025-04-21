@@ -17,7 +17,7 @@ Our target variable is the real time price in the NP-15 zone of the California g
   <li>Forecasted hourly load and forecasted generation from solar+wind in the NP-15 region.</li>
   <li> Natural Gas Price for each day.</li>
 </ol>
-Data is already made available in csv format from [EIA](https://www.eia.gov/electricity/wholesalemarkets/data.php?rto=caiso) and [Gridstatus](www.gridstatus.io). 
+Data is already made available in csv format from https://www.eia.gov/electricity/wholesalemarkets/data.php?rto=caiso and https://www.gridstatus.io/. 
 
 ## Modeling
 
@@ -25,4 +25,12 @@ Data is already made available in csv format from [EIA](https://www.eia.gov/elec
   <li> We identify possible parameters for SARIMA by differencing to obtain stationarity (confirmed by ADF test), and looking at ACF and PACF plots, and select the best model by cross validation. </li>
   <li> We perform cross validation on disjoint folds of month long data in the year 2023 for March, June, September and December. In each fold, we train on days 1-27, and validate on 2 hour intervals from 6am to 6pm on the 28th.</li>
   <li> Features for SARIMAX are last known actuals and forecasting errors for load and solar+wind generation, and natural gas prices. </li>
+</ul>
+
+## Results
+
+<ul>
+  <li> SARIMA models perform significantly worse than the baseline. </li>
+  <li> Adding exogenous variables improves performance, but still does not improve over baseline. </li>
+  <li> For future work, we plan to identify periods of high volatility and see whether models perform better at such times and try other models. </li>
 </ul>
